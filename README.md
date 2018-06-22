@@ -36,4 +36,4 @@ function getWeather(lat, lon) {
 
 ## Example
 
-[demo](http://konstantyw.pl/api-weather)
+[demo](https://www.konstantyw.pl/api-weather)
