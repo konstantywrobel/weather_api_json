@@ -1,0 +1,31 @@
+body {
+    font-family: 'Roboto';
+    color: #fff;
+    background-color: #161616;
+    text-align: center;
+}
+
+header {
+    margin-bottom: 30px;
+}
+
+p {
+    font-size: 1.8em;
+}
+#temp{
+    color:#006dcc;
+}
+h1 {
+    font-size: 5em;
+    color: firebrick;
+
+}
+
+@media only screen and (max-width: 600px) {
+   p {
+       font-size: 1.2em;
+   }
+    h1{
+        font-size: 2em;
+    }
+}
